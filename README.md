@@ -20,11 +20,13 @@ exp1_boolean_min_tb.v	Verilog testbench
 exp1_boolean_min.vcd	VCD waveform dump generated during simulation
 
 ## Verilog Program
+<img width="1088" height="287" alt="Screenshot 2026-11-20 104137" src="https://github.com/user-attachments/assets/8fe0bc47-f5ab-4cbc-8fd8-d645d922d870" />
 
 
 
 ## TestBench Program
 
+<img width="1535" height="897" alt="Screenshot 2026-11-20 104206" src="https://github.com/user-attachments/assets/126f9d6c-1e74-4bd8-a871-2deebe98e585" />
 
 
 
@@ -84,25 +86,10 @@ was minimized to F=B'D'+BD.
 and successfully implemented using Verilog HDL.
 
 ## OUTPUT
+<img width="1917" height="1078" alt="Screenshot 2026-11-20 101111" src="https://github.com/user-attachments/assets/0ea457fe-ca28-47d4-9c2b-579b1e1aa53a" />
 
 
 
-The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis.
-7. Viva-Voce Questions
-1.	What is Boolean function minimization?
-2.	What is a minterm?
-3.	What is a Karnaugh map?
-4.	Why is Boolean minimization required?
-5.	What are universal gates?
-6.	What is the difference between SOP and POS?
-7.	What is the purpose of a Verilog testbench?
-8.	Why is a VCD file generated?
-9.	What is the purpose of ./simv?
-10.	What is the purpose of DVE?
-11.	What is the difference between simulation and synthesis?
-12.	Why are A and C absent from the minimized expression?
-13.	What is the purpose of $dumpfile?
-14.	What is the purpose of $dumpvars?
 
 Result
 Thus, the Boolean function was minimized, implemented using Verilog HDL, successfully simulated using Synopsys VCS, and verified using Synopsys DVE.
